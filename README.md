@@ -30,7 +30,7 @@ The dashboard helps HR teams identify high-risk attrition segments and understan
 
 ## 📸 Dashboard Preview
 
-![HR Dashboard](dashboard.png)
+![HR Dashboard](HR Dashboard.png)
 
 ---
 
