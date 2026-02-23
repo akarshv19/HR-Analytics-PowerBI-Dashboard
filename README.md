@@ -30,8 +30,9 @@ The dashboard helps HR teams identify high-risk attrition segments and understan
 
 ## 📸 Dashboard Preview
 
-![HR Dashboard](HR Dashboard.png)
-
+<p align="center">
+  <img src="HR Dashboard.png" width="900">
+</p>
 ---
 
 ## 🧠 Key DAX Measure Example
